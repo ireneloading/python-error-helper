@@ -1,4 +1,5 @@
-THE STORY
+### THE STORY
+
 Even though python is one of the easier codes to use, it can get a little stressful when errors keep plauging your work.
 Especially when they're very simple mistakes compared to the very loud error message. 
 
@@ -6,10 +7,12 @@ Before, I used to Google every error message and when the python website made no
 
 I know its all part of the learning process but sometimes it was a bit too painful. Eventually I dreaded those errors messages; I knew when I saw one, it was going to be a long night.
 
-THE PROJECT
+### THE PROJECT
+
 This is a web app that is the less dramatic version of an error message and better, it comes with an example of how to correct this issue. Beginners can compare this to their own code and see what went wrong. Thus preventing one more newbies from rage quitting python lol.
 
-WHAT IT DOES
+### WHAT IT DOES
+
 I had fun using the feature such as st.button(), and st.warning(). Normal writing boxes were boring so these gave it a bit more flair and personality. 
 
 Though the dictionary did test my patience, I spent the longest on it and when it got to the Indentation error I had to google how to make it look like it was actually on python. (Worth it) Dictionarys are one of those things where once you get them they are absolutely wonderful.
@@ -22,18 +25,24 @@ Since this is a web app aimed at beginners it can only work with 3 types of erro
 
 I associated those errors with beginners mistakes because a lot of my crashes were due to those simple things. Especially the Indentation. 
 
-NEXT TIME...
+<details>
+<summary> 
+### NEXT TIME...
+</summary>
+
 - If I dedicated more time to this web app I'd add more errors.
 - I would make the formatting nicer just for my own personal satisfaction. 
 
--It would be great if someone could try on their own to fix an error and for the web app to tell them you got it right or to give a little tip. This would the app more interactive and giving it a greater purpose than a guide. 
+- It would be great if someone could try on their own to fix an error and for the web app to tell them you got it right or to give a little tip. This would the app more interactive and giving it a greater purpose than a guide. 
 
--Use this as inspiration to write a code that teaches beginners how to read the python traceback (The block of text that pops up when your code crashes) 
+- Use this as inspiration to write a code that teaches beginners how to read the python traceback (The block of text that pops up when your code crashes) 
+</details>
 
-Built with: Python & Streamlit
 
-HOW TO RUN IT(make collapsable) 
-
+<details>
+<summary> 
+### HOW TO RUN IT
+</summary>
 
 (with python and streamlit installed)
 
@@ -54,14 +63,17 @@ python_error_explainer.py - The app I want you to run is this file
 In plain english:  ~~Hello World~~ Python Wake up and run this module you and I both know is installed on this laptop called Streamlit. And Streamlit launch this app in the file called python_error_explainer.py ... pretty please.
 
 When saving the file I saved it with .bat, short for a batch file which types the command I wrote above for me.
-----
+
 
 There are other ways to do it but this one works best for me. Just note it is also sensitive to Indentation error and making sure the name matches the file name exactly.... another beginners error I might expand on later.
 
-LESSONS LEARNED
--Dictonaries fustrated me but I'm happy I stuck with them.
+</details>
 
-THE GOODBYE
+### LESSONS LEARNED
+
+- Dictonaries fustrated me but I'm happy I stuck with them.
+
+### THE GOODBYE
 
 The charm of turning this idea into a web app is that you can not only fix your error in python but you can learn other skills
 Streamlit is in python, you can use some html for formatting and more. It's like proof you don't need to be an expert to produce something meaningful. 
@@ -69,9 +81,9 @@ Streamlit is in python, you can use some html for formatting and more. It's like
  Hope you find this useful! 
 
 *Loading bar*
-
+Built with: Python & Streamlit
 
 - Code blocks whenever I use code so during the py -m etc tec
 - Horizontal rules between major sections like the story and the code
-- Collapsible sections for: How the comman works, future ideas and technical notes
+- Making the collapsible sections in ###
 - Call out boxes for fun facts or little notes 
