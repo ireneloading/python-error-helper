@@ -21,9 +21,9 @@ Though the dictionary did test my patience, I spent the longest on it and when i
 
 Since this is a web app aimed at beginners it can only work with 3 types of errors including:
 
-- SyntaxError: expected ':'
-- IndentationError: expected an indented block
-- NameError: name 'x' is not defined
+- `SyntaxError: expected ':'`
+- `IndentationError: expected an indented block`
+- `NameError: name 'x' is not defined`
 
 I associated those errors with beginners mistakes because a lot of my crashes were due to those simple things. Especially the Indentation. 
 
@@ -50,16 +50,18 @@ HOW TO RUN IT
 I personally wrote the code in my notes app on my laptop... 
 (Image/git of the whole code) 
 
-Then wrote a line to run it in a seperate note using
+Then wrote a line to run it in a seperate note using:
+```bash
 py -m streamlit run python_error_explainer.py
+```
 
 (Image) 
 (Explain what each line means) 
-py - Use python to do something aka "hey python!"
--m - Run this installed python program/Module
-streamlit - The module I want you to run
-run -Command in streamlit that tells streamlit to launch the app
-python_error_explainer.py - The app I want you to run is this file
+- `py` - Use python to do something aka "hey python!"
+- `-m` - Run this installed python program/Module
+- `streamlit` - The module I want you to run
+- `run` - Command in streamlit that tells streamlit to launch the app
+- `python_error_explainer.py` - The app I want you to run is this file
 
 In plain english:  ~~Hello World~~ Python Wake up and run this module you and I both know is installed on this laptop called Streamlit. And Streamlit launch this app in the file called python_error_explainer.py ... pretty please.
 
@@ -85,9 +87,3 @@ Streamlit is in python, you can use some html for formatting and more. It's like
 *Loading bar*
 Built with: Python & Streamlit
 
-
-
-- Code blocks whenever I use code so during the py -m etc tec
-- Horizontal rules between major sections like the story and the code
-- Making the collapsible sections in ###
-- Call out boxes for fun facts or little notes 
