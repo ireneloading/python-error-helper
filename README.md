@@ -27,12 +27,10 @@ Since this is a web app aimed at beginners it can only work with 3 types of erro
 
 I associated those errors with beginners mistakes because a lot of my crashes were due to those simple things. Especially the Indentation. 
 
----
-
 <details>
-<summary> 
-### IF I HAD MORE TIME...
-</summary>
+<summary><strong><h3>
+IF I HAD MORE TIME...
+</strong></h3></summary>
 
 - If I dedicated more time to this web app I'd add more errors.
 - I would make the formatting nicer just for my own personal satisfaction. 
@@ -42,11 +40,10 @@ I associated those errors with beginners mistakes because a lot of my crashes we
 - Use this as inspiration to write a code that teaches beginners how to read the python traceback (The block of text that pops up when your code crashes) 
 </details>
 
-
 <details>
-<summary> 
-### HOW TO RUN IT
-</summary>
+<summary><strong><h3> 
+HOW TO RUN IT
+</strong></h3></summary>
 
 (with python and streamlit installed)
 
@@ -73,10 +70,6 @@ There are other ways to do it but this one works best for me. Just note it is al
 
 </details>
 
-### LESSON OF THE DAY
-
-- Dictonaries fustrated me but I'm happy I stuck with them.
-
 ---
 
 ### THE GOODBYE
@@ -86,8 +79,13 @@ Streamlit is in python, you can use some html for formatting and more. It's like
 
  Hope you find this useful! 
 
+>[!NOTE]
+>Dictonaries fustrated me but I'm happy I stuck with them.
+
 *Loading bar*
 Built with: Python & Streamlit
+
+
 
 - Code blocks whenever I use code so during the py -m etc tec
 - Horizontal rules between major sections like the story and the code
