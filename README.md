@@ -1,4 +1,5 @@
-![python-error-helper pixel art](images/whimsical book.png)
+<img src="whimsical%20book.png" width="60" align="left">
+
 ### THE STORY
 
 Even though python is one of the easier codes to use, it can get a little stressful when errors keep plauging your work.
@@ -9,10 +10,13 @@ Before, I used to Google every error message and when the python website made no
 I know its all part of the learning process but sometimes it was a bit too painful. Eventually I dreaded those errors messages; I knew when I saw one, it was going to be a long night.
 
 ---
+<img src="checklist2.png" width="40" align="left">
 
 ### THE PROJECT
 
 This is a web app that is the less dramatic version of an error message and better, it comes with an example of how to correct this issue. Beginners can compare this to their own code and see what went wrong. Thus preventing one more newbies from rage quitting python.
+
+<img src="Magnifying%20glass.png" width="40" align="left">
 
 ### WHAT IT DOES
 
@@ -28,6 +32,8 @@ Since this is a web app aimed at beginners it can only work with 3 types of erro
 
 I associated those errors with beginners mistakes because a lot of my crashes were due to those simple things. Especially the Indentation. 
 
+<img src="hourglass.png" width="50" align="left">
+
 <details>
 <summary><strong><h3>
 IF I HAD MORE TIME...
@@ -40,6 +46,8 @@ IF I HAD MORE TIME...
 
 - Use this as inspiration to write a code that teaches beginners how to read the python traceback (The block of text that pops up when your code crashes) 
 </details>
+
+<img src="Cursor%20Select.png" width="60" align="left">
 
 <details>
 <summary><strong><h3> 
@@ -85,6 +93,7 @@ Streamlit is in python, you can use some html for formatting and more. It's like
 >[!NOTE]
 >Dictonaries fustrated me but I'm happy I stuck with them.
 
-*Loading bar*
+![python-error-helper-pixel-art](python%20logo.png)
+
 Built with: Python & Streamlit
 
