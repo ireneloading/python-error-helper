@@ -1,3 +1,4 @@
+![python-error-helper pixel art](images/whimsical book.png)
 ### THE STORY
 
 Even though python is one of the easier codes to use, it can get a little stressful when errors keep plauging your work.
