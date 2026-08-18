@@ -7,9 +7,11 @@ Before, I used to Google every error message and when the python website made no
 
 I know its all part of the learning process but sometimes it was a bit too painful. Eventually I dreaded those errors messages; I knew when I saw one, it was going to be a long night.
 
+---
+
 ### THE PROJECT
 
-This is a web app that is the less dramatic version of an error message and better, it comes with an example of how to correct this issue. Beginners can compare this to their own code and see what went wrong. Thus preventing one more newbies from rage quitting python lol.
+This is a web app that is the less dramatic version of an error message and better, it comes with an example of how to correct this issue. Beginners can compare this to their own code and see what went wrong. Thus preventing one more newbies from rage quitting python.
 
 ### WHAT IT DOES
 
@@ -25,9 +27,11 @@ Since this is a web app aimed at beginners it can only work with 3 types of erro
 
 I associated those errors with beginners mistakes because a lot of my crashes were due to those simple things. Especially the Indentation. 
 
+---
+
 <details>
 <summary> 
-### NEXT TIME...
+### IF I HAD MORE TIME...
 </summary>
 
 - If I dedicated more time to this web app I'd add more errors.
@@ -69,9 +73,11 @@ There are other ways to do it but this one works best for me. Just note it is al
 
 </details>
 
-### LESSONS LEARNED
+### LESSON OF THE DAY
 
 - Dictonaries fustrated me but I'm happy I stuck with them.
+
+---
 
 ### THE GOODBYE
 
