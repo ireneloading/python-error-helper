@@ -1,10 +1,10 @@
 <p align="center">
-<img src="python%20logo.png" width="80">
+<img src="assets/python%20logo.png" width="80">
 </p>
 
 <h1 align="center"> Python Error Helper </h1>
 
-<img src="whimsical%20book.png" width="45" align="left">
+<img src="assets/whimsical%20book.png" width="45" align="left">
 
 ### THE STORY
 
@@ -16,7 +16,7 @@ Before, I used to Google every error message and when the python website made no
 I know its all part of the learning process but sometimes it was a bit too painful. Eventually I dreaded those errors messages; I knew when I saw one, it was going to be a long night.
 
 ---
-<img src="checklist2.png" width="40" align="left">
+<img src="assets/checklist2.png" width="40" align="left">
 
 ### THE PROJECT
 
@@ -24,7 +24,7 @@ This is a web app that is the less dramatic version of an error message and bett
 
 ---
 
-<img src="Magnifying%20glass.png" width="40" align="left">
+<img src="assets/Magnifying%20glass.png" width="40" align="left">
 
 ### BEHIND THE BUILD
 
@@ -42,7 +42,7 @@ I associated those errors with beginners mistakes because a lot of my crashes we
 
 ---
 
-<img src="hourglass.png" width="50" align="left">
+<img src="assets/hourglass.png" width="50" align="left">
 
 <details>
 <summary><strong><h3>
@@ -57,7 +57,7 @@ IF I HAD MORE TIME...
 - Use this as inspiration to write a code that teaches beginners how to read the python traceback (The block of text that pops up when your code crashes) 
 </details>
 
-<img src="Cursor%20Select.png" width="60" align="left">
+<img src="assets/Cursor%20Select.png" width="60" align="left">
 
 <details>
 <summary><strong><h3> 
@@ -103,7 +103,7 @@ Streamlit is in python, you can use some html for formatting and more. It's like
 >[!NOTE]
 >Dictonaries fustrated me but I'm happy I stuck with them.
 
-![python-error-helper-pixel-art](python%20logo.png) ![python-error-helper-pixel-art](streamlit-logo.png)
+![python-error-helper-pixel-art](assets/python%20logo.png) ![python-error-helper-pixel-art](assets/streamlit-logo.png)
 
 Built with: Python & Streamlit
 
