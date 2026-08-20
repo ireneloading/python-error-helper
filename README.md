@@ -1,4 +1,10 @@
-<img src="whimsical%20book.png" width="60" align="left">
+<p align="center">
+<img src="python%20logo.png" width="80">
+</p>
+
+<h1 align="center"> Python Error Helper </h1>
+
+<img src="whimsical%20book.png" width="45" align="left">
 
 ### THE STORY
 
@@ -16,9 +22,11 @@ I know its all part of the learning process but sometimes it was a bit too painf
 
 This is a web app that is the less dramatic version of an error message and better, it comes with an example of how to correct this issue. Beginners can compare this to their own code and see what went wrong. Thus preventing one more newbies from rage quitting python.
 
+---
+
 <img src="Magnifying%20glass.png" width="40" align="left">
 
-### WHAT IT DOES
+### BEHIND THE BUILD
 
 I had fun using the feature such as st.button(), and st.warning(). Normal writing boxes were boring so these gave it a bit more flair and personality. 
 
@@ -31,6 +39,8 @@ Since this is a web app aimed at beginners it can only work with 3 types of erro
 - `NameError: name 'x' is not defined`
 
 I associated those errors with beginners mistakes because a lot of my crashes were due to those simple things. Especially the Indentation. 
+
+---
 
 <img src="hourglass.png" width="50" align="left">
 
@@ -83,7 +93,7 @@ There are other ways to do it but this one works best for me. Just note it is al
 
 ---
 
-### THE GOODBYE
+### BYE BYE
 
 The charm of turning this idea into a web app is that you can not only fix your error in python but you can learn other skills
 Streamlit is in python, you can use some html for formatting and more. It's like proof you don't need to be an expert to produce something meaningful. 
@@ -93,7 +103,7 @@ Streamlit is in python, you can use some html for formatting and more. It's like
 >[!NOTE]
 >Dictonaries fustrated me but I'm happy I stuck with them.
 
-![python-error-helper-pixel-art](python%20logo.png)
+![python-error-helper-pixel-art](python%20logo.png) ![python-error-helper-pixel-art](streamlit-logo.png)
 
 Built with: Python & Streamlit
 
