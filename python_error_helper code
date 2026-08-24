@@ -1,0 +1,45 @@
+# My first streamlit project
+# A web app that explains, gives an example and a tip for 3 beginner error messages in python
+
+import streamlit as st
+
+# The pre stored explanations
+error_explanations = {"SyntaxError: expected ':'": {"explain": "Python expected a colon (:) at the end of a line that starts a block, like  if, for, while, or else.",
+        "e.g": "if x > 5:\n    print(x)",
+        "tip": "Remember to put a colon at the end of lines that begin an if statement, loop, function, or similar code block."},
+   
+    "IndentationError: expected an indented block": {"explain": "Python expected the next line of code to be indented, which means moved slightly to the right.",
+        "e.g": "if x > 5:\n print(x)",
+        "tip": "After a line ending in a colon (:), indent the next line using four spaces."},
+
+    "NameError: name 'x' is not defined": {"explain": "You are trying to use a variable called x before giving it a value.",
+        "e.g": "x = 10\n print(x)",
+        "tip": "Make sure you give a variable a value before trying to use it."}}
+
+st.title("My Beginner Friendly Python Error Explainer")
+
+st.write("Paste one of the Python error messages **from my Github ReadME** below to receive a simple explanation and example.")
+
+user_input = st.text_area("Please your Python error message:")
+
+if st.button("Submit"):
+
+	if user_input == "":
+		st.warning("Please enter an error message")
+
+	elif user_input in error_explanations:
+        	details = error_explanations[user_input]
+
+        	st.subheader("Explanation")
+        	st.write(details["explain"])
+
+        	st.subheader("Example Correction")
+        	st.code(details["e.g"], language="python")
+
+        	st.subheader("Top Tip")
+        	st.write(details["tip"])
+
+	else:
+        	st.warning("Sorry, this tool supports only a few pre-stored beginner error messages")
+
+        
