@@ -24,7 +24,10 @@ This is a web app that is the less dramatic version of an error message and bett
 
 ---
 <img src="assets/video-icon.png" width="40" align="left">
+
 ### GIF DEMO OF THE APP
+
+<img src="assets/Python-helper-syntax-screenrecording.gif" width="500" align="left">
 
 
 ---
