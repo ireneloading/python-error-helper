@@ -23,7 +23,11 @@ I know its all part of the learning process but sometimes it was a bit too painf
 This is a web app that is the less dramatic version of an error message and better, it comes with an example of how to correct this issue. Beginners can compare this to their own code and see what went wrong. Thus preventing one more newbies from rage quitting python.
 
 ---
+<img src="assets/video-icon.png" width="40" align="left">
+### GIF DEMO OF THE APP
 
+
+---
 <img src="assets/Magnifying%20glass.png" width="40" align="left">
 
 ### BEHIND THE BUILD
