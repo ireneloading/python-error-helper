@@ -26,12 +26,14 @@ This is a web app that is the less dramatic version of an error message and bett
 <img src="assets/video-icon.png" width="40" align="left">
 
 ### GIF DEMO OF THE APP
-
-<img src="assets/Python-helper-syntax-screenrecording.gif" width="500" align="left">
-<img src="assets/Python-helper-indentation-screenrecording.gif" width="500" align="left">
-
+<p align="center">
+<img src="assets/Python-helper-syntax-screenrecording.gif" width="350">
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="assets/Python-helper-indentation-screenrecording.gif" width="350">
+</p>
 
 ---
+
 <img src="assets/Magnifying%20glass.png" width="40" align="left">
 
 ### BEHIND THE BUILD
@@ -107,9 +109,6 @@ The charm of turning this idea into a web app is that you can not only fix your 
 Streamlit is in python, you can use some html for formatting and more. It's like proof you don't need to be an expert to produce something meaningful. 
 
  Hope you find this useful! 
-
->[!NOTE]
->Dictonaries fustrated me but I'm happy I stuck with them.
 
 ![python-error-helper-pixel-art](assets/python%20logo.png) ![python-error-helper-pixel-art](assets/streamlit-logo.png)
 
