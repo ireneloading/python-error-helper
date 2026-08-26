@@ -77,15 +77,13 @@ HOW TO RUN IT
 (with python and streamlit installed)
 
 I personally wrote the code in my notes app on my laptop... 
-(Image/git of the whole code) 
+
 
 Then wrote a line to run it in a seperate note using:
 ```bash
 py -m streamlit run python_error_explainer.py
 ```
 
-(Image) 
-(Explain what each line means) 
 - `py` - Use python to do something aka "hey python!"
 - `-m` - Run this installed python program/Module
 - `streamlit` - The module I want you to run
